@@ -1,5 +1,6 @@
 # Study Projects
 These are the projects made in the courses I've taken.
+I have decided to include only projects really made by me; none of them was just a copy/paste following a tutorial.
 
 ## Back-end Development
 ### Node.js & MongoDB
