@@ -10,4 +10,4 @@ I have decided to include only projects really made by me; none of them was just
 - [Exercise Tracker](https://github.com/rhoudini1/nodeJS-study/tree/main/Exercise_Tracker_FreeCodeCamp)
 - [File Metadata Microservice](https://github.com/rhoudini1/nodeJS-study/tree/main/File_Metadata_FreeCodeCamp)
 
-[Click here to check the certification](https://www.freecodecamp.org/certification/rhoudini/back-end-development-and-apis)
+[Click here](https://www.freecodecamp.org/certification/rhoudini/back-end-development-and-apis) to check the certification
